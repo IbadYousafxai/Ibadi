@@ -56,10 +56,10 @@ logo = """
 \033[1;95m ██║██████╦╝██║░░██║██████╔╝
 \033[1;95m ╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 \033[1;94m=======================================
-\033[1;92mName  \033[1;95m: \033[1;94mIbad Yousafxai
-\033[1;92mInstagram \033[1;95m: \033[1;ibadi143
-\033[1;92mFacebook  \033[1;95m: \033[1; feel.my.love113
-\033[1;92mGithub \033[1;95m: \033[1;92mhttps://github.com/IbadYousafxai
+\033[1;92mName  \033[1;95m: \033[1;93mIbad Yousafxai
+\033[1;92mInstagram \033[1;95m: \033[1;93mibadi143
+\033[1;92mFacebook  \033[1;95m: \033[1;93mfeel.my.love113
+\033[1;92mGithub \033[1;95m: \033[1;93mhttps://github.com/IbadYousafxai
 \033[1;94m======================================="""
 
 def tik():
@@ -80,10 +80,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;94m=======================================
-\033[1;92mAuthor  \033[1;95m: \033[1;94mIbad Yousafxai
-\033[1;92mInstagram \033[1;95m: \033[1;92mibadi143
-\033[1;92mFacebook  \033[1;95m: \033[1;92m feel.my.love113
-\033[1;92mGithub \033[1;95m: \033[1;92mhttps://Github.com/IbadYousafxai
+\033[1;92mAuthor  \033[1;95m: \033[1;93mIbad Yousafxai
+\033[1;92mInstagram \033[1;95m: \033[1;93mibadi143
+\033[1;92mFacebook  \033[1;95m: \033[1;93mfeel.my.love113
+\033[1;92mGithub \033[1;95m: \033[1;93mhttps://Github.com/IbadYousafxai
 \033[1;94m======================================="""
 print " \x1b[1;94m============================================================="
 
